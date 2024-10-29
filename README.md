@@ -11,3 +11,4 @@ GitHub Training course IPMA
 
 New additional line
 
+[link to google](http://www.google.com)
